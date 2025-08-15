@@ -2,7 +2,7 @@
 A light network scanning tool with different features. OS detection, tcp/udp port scanning, Nmap.
 
 ## Installation
-[git clone ](https://github.com/ReKaslan/Aeon.git)
+git clone https://github.com/ReKaslan/Aeon.git
 
 ## Usage
 * $ aeon.exe -h 
