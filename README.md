@@ -3,6 +3,8 @@
 A light network scanning tool with different features. OS detection, tcp/udp port scanning, Nmap. It works on some light weight devices 
 that are not powerful as a computer.
 
+![Screenshot](https://github.com/ReKaslan/Aeon/images/)
+
 ## Installation
 git clone https://github.com/ReKaslan/Aeon.git
 
