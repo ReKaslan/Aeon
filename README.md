@@ -1,7 +1,14 @@
-# Aeon (1.0) (Windows)
+# Aeon (1.0) (Windows) Early release
 
-A light network scanning tool with different features. OS detection, tcp/udp port scanning, Nmap. It works on some light weight devices 
-that are not powerful as a computer.
+version: 1.0
+
+A light general purpose network reconnaissance tool with different features. 
+
+* Network Scanning
+* OS Detection
+* Dir finding
+* Domain finding
+* Web scraping
 
 ![Screenshot](https://github.com/ReKaslan/Aeon/blob/main/images/Screenshot_help.png)
 
@@ -12,11 +19,4 @@ git clone https://github.com/ReKaslan/Aeon.git
 * $ ./aeon.exe -h 
 * $ ./aeon.exe --helpme
 
-## For future update
-1. Add udp scanning feature.
-2. Add nmap module as a backup scanner.
-3. OS detection.
-4. Dir finding.
-5. Domain searching.
-6. Web content scraping.
 
