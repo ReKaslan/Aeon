@@ -1,10 +1,15 @@
-# Aeon
-A network scanning tool with different features. OS detection, tcp/udp port scanning.
+# Aeon (1.0)
+A light network scanning tool with different features. OS detection, tcp/udp port scanning, Nmap.
 
 ## Installation
-git clone 
+[git clone ](https://github.com/ReKaslan/Aeon.git)
 
 ## Usage
-$ aeon.exe -h
-$ aeon.exe --helpme
+* $ aeon.exe -h 
+* $ aeon.exe --helpme
+
+## For update
+1. Add udp scanning feature.
+2. Add nmap module as a backup scanner.
+3. OS detection.
 
