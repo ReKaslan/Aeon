@@ -12,8 +12,11 @@ git clone https://github.com/ReKaslan/Aeon.git
 * $ ./aeon.exe -h 
 * $ ./aeon.exe --helpme
 
-## For update
+## For future update
 1. Add udp scanning feature.
 2. Add nmap module as a backup scanner.
 3. OS detection.
+4. Dir finding.
+5. Domain searching.
+6. Web content scraping.
 
