@@ -1,6 +1,7 @@
 # Aeon (1.0) (Windows)
 
-A light network scanning tool with different features. OS detection, tcp/udp port scanning, Nmap.
+A light network scanning tool with different features. OS detection, tcp/udp port scanning, Nmap. It works on some light weight devices 
+that are not powerful as a computer.
 
 ## Installation
 git clone https://github.com/ReKaslan/Aeon.git
